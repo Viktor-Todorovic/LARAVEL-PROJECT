@@ -1,0 +1,1 @@
+<div class="w3-black w3-center w3-padding-24" style="border-radius:5px;">VT - Krojački salon</div>
